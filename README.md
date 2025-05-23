@@ -141,7 +141,6 @@ Durante a exploração da plataforma, também realizei a criação de uma Máqui
 
 ---
 
-## 📚 Recursos Úteis
 ## ✨ Futuras Implementações/Melhorias
 
 * Conectar uma aplicação simples ao Banco de Dados SQL provisionado.
